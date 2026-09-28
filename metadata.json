@@ -1,0 +1,6 @@
+{
+  "name": "Memento Mori CP Calculator",
+  "description": "Kalkulator dan simulator Combat Power (CP / 戦闘力) Memento Mori resmi berbasis reverse-engineering parameter game, level scaling, rarity multipliers, dan player rank bonus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
